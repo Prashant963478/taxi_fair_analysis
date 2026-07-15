@@ -104,3 +104,9 @@ Each page uses slicers (date, vehicle type, payment method) so the report is ful
 **Prashant Solanki**
 B.Tech Computer Science, GLA University
 [GitHub](https://github.com/Prashant963478)
+
+##Screenshot
+
+
+<img width="1345" height="742" alt="image" src="https://github.com/Prashant963478/taxi_fair_analysis/blob/main/Screenshot%202026-07-15%20144837.png" />
+<img width="1345" height="742" alt="image" src="https://github.com/Prashant963478/taxi_fair_analysis/blob/main/Screenshot%202026-07-15%20144859.png" />
